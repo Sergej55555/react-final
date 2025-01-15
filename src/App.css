@@ -1,0 +1,127 @@
+.navigate {
+  display: flex;
+  justify-content: center;
+  background-color: antiquewhite;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.link {
+  padding: 10px 40px;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+
+.link:hover {
+  background-color: darkcyan;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-card {
+    padding: 2%;
+    flex-grow: 1;
+    flex-basis: 16%;
+  }
+  
+  body {
+    background-color: #6a6868;
+    font-family: "Encode Sans Semi Expanded", sans-serif;
+  }
+  
+  .cont {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .back {
+    background-color: #f4eddd; 
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    border-radius: 5px; 
+  }
+  
+  .cards {
+    border-radius: 5px;
+  }
+
+  .change {
+    background-color: rgb(28, 28, 28);
+    color: bisque;
+    padding: 10px;
+    border: none;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+
+  .clean {
+    background-color: rgb(55, 71, 3);
+    color: bisque;
+    padding: 10px;
+    border: none;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+  
+  h3, h4 {
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+  
+  button {
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .range {
+    margin: 15px;
+  }
+
+  .watchInfo {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .watchInfo:hover {
+    margin: 15px;
+    background-color: aquamarine;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .watch:hover {
+    margin: 15px;
+    background-color: beige;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .change:hover, .clean:hover {
+    cursor: pointer;
+  }
+
+  .cards:hover {
+    width: 300px;
+    transition: 1.5s;
+  }
+
+  .changer {
+    border-radius: 5px;
+  }
+
+  .famous {
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
