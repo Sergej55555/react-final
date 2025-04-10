@@ -8,6 +8,4 @@ function Buttons({filteredWatches}) {
     )
   }
 
-  /* Использовать ui на кнопках */
-
   export default Buttons;

@@ -40,6 +40,10 @@
     display: flex;
     justify-content: center;
   }
+
+  .subcont {
+    margin: 50px;
+  }
   
   .back {
     background-color: #f4eddd; 

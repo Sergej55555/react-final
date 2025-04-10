@@ -1,9 +1,9 @@
-import rolex from './rolex.jpg'
+import rolex from './Assets/rolex.jpg'
 
 function About() {
 
     return (<div>
-        <h1 className='cont'>Mission of our company</h1>
+        <h1 className='cont subcont'>Mission of our company</h1>
         <br></br> 
         <div className='cont'>
         <img className="cards" src={rolex} width='250px' alt="Clothes" />

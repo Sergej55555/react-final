@@ -1,8 +1,8 @@
-import JayZ from './JayZ.jpg';
-import Conor from './Conor.jpg';
-import Tom from './Tom.jpg';
-import Jenn from './Jenn.jpg';
-import Cameron from './Cameron.jpg'
+import JayZ from './Assets/JayZ.jpg';
+import Conor from './Assets/Conor.jpg';
+import Tom from './Assets/Tom.jpg';
+import Jenn from './Assets/Jenn.jpg';
+import Cameron from './Assets/Cameron.jpg'
 
 export const data = [
 
